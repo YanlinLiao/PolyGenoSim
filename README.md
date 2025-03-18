@@ -1,4 +1,4 @@
-##User-friendly link##\
+##User-friendly link\
 If you would like to use the web-page, please access: https://shiny.wur.nl/content/5b032bd5-0a68-4f80-bf05-153ac437ee41 
 
 <br />##General introduction##\
