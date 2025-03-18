@@ -55,4 +55,4 @@ tabsheet Ploidy, which only appears if data are imported.\
 ‘SNParray_Simulations’, and ‘SequenceReads_Simulations’. Once simulation is achieved, all
 related files will be stored in the folder with the name user specified. For users, their simulated
 datasets can be downloaded from the Download (*.zip) button.\
-Hope _PolyGenoSim_ can help you achieve your goal!\
+Hope _PolyGenoSim_ can help you achieve your goal!
