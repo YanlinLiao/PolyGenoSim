@@ -1,5 +1,5 @@
 **General introduction**\
-Most recent genetic studies in polyploid crops are based on the accurate estimation of marker
+&nbspMost recent genetic studies in polyploid crops are based on the accurate estimation of marker
 allelic dosage. However, genotype calling in polyploids is challenging due to its multiple
 classes of heterozygosity. Simulation studies are helpful to generate a scenario of interest and
 predict the best genotyping parameter or genotype calling methodologies to be used.
