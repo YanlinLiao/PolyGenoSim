@@ -1,4 +1,7 @@
-**General introduction**\
+**User-friendly link**\
+If you would like to use the web-page, please access: https://shiny.wur.nl/content/5b032bd5-0a68-4f80-bf05-153ac437ee41 
+
+<br />**General introduction**\
 &nbsp;&nbsp;&nbsp;Most recent genetic studies in polyploid crops are based on the accurate estimation of marker
 allelic dosage. However, genotype calling in polyploids is challenging due to its multiple
 classes of heterozygosity. Simulation studies are helpful to generate a scenario of interest and
@@ -53,5 +56,3 @@ tabsheet Ploidy, which only appears if data are imported.\
 related files will be stored in the folder with the name user specified. For users, their simulated
 datasets can be downloaded from the Download (*.zip) button.\
 Hope _PolyGenoSim_ can help you achieve your goal!\
-<br />**User-friendly link**\
-If you would like to use the web-page, please access: https://shiny.wur.nl/content/5b032bd5-0a68-4f80-bf05-153ac437ee41 
