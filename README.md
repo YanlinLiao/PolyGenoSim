@@ -1,5 +1,5 @@
 **User-friendly link**\
-If you would like to use the web-page, please access: https://shiny.wur.nl/content/5b032bd5-0a68-4f80-bf05-153ac437ee41 
+&nbsp;&nbsp;&nbsp;If you would like to use user-friendly web-page, please access: https://shiny.wur.nl/content/5b032bd5-0a68-4f80-bf05-153ac437ee41 
 
 <br />**General introduction**\
 &nbsp;&nbsp;&nbsp;Most recent genetic studies in polyploid crops are based on the accurate estimation of marker
