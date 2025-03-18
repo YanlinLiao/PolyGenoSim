@@ -1,0 +1,11 @@
+Name: PolyGenoSim
+Version: 0.2.1
+Date: 14-03-2025
+Author: Yanlin Liao, Giorgio Tunmino
+Maintainer: Yanlin Liao (yanlin.liao@outlook.com)
+Department: Wageningen Plant Breeding
+Package: Dummy
+Depends:plyr,MASS
+Type: Shiny
+
+
